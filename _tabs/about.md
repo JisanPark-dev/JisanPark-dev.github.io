@@ -4,163 +4,63 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Resume.
+# 박지산
+<span style="color:gray;font-size:100%">Suwon, Korea</span><br/>
+<span style="color:gray">✉️ jisanpark.dev@gmail.com</span>
 
-# **박지산**
-
-클라이언트 프로그래머
-
-![증명사진_흑백.jpg](/assets/img/profile_snapshot.jpg)
-
-### 연락처
-
-Email: jisanpark.dev@gmail.com
-
-Phone: 010-9003-5856
-
-### 링크
-
-GitHub: [https://github.com/JisanPark-dev](https://github.com/JisanPark-dev)
-
-Blog: [https://jisanpark-dev.github.io](https://jisanpark-dev.github.io)
-
-# 직무 경험
-
-## Looksten
-
-Programmer
-2022.07 - 
-
-## Shooting Star VR
-
-### 소개
-
-VR 양궁 게임으로, Steam, SideQuest, and Pico Store에 출시하였습니다.
-
-### 직무
-
-- 클라이언트 프로그래밍
-- 플랫폼 별 SDK 관련 개발
-
-### 기술 스택
-
-UE4, C++
 
 ---
+## **Skills & Platform**
+> <span style="color:gray;font-size:70%">기능 구현 등 사용 경험이 있는 기술</span><br/>
 
-## Archery Land VR
+`C` `C++` `SQL`<br/>
+`UnrealEngine` `VR` `Oculus` `PICO`<br/>
+`GIT` `SVN` `Perforce`<br/>
 
-### 소개
+## **Experience**
+------
+## Looksten <span style="color:gray;font-size:50%">(2021.07-Present)</span>
+<span style="color:gray;font-size:100%">Game Client Programmer</span><br/>
 
-VR 양궁 게임으로, Steam, SideQuest, and Pico Store에 출시하였습니다.
+#### <span style="color:gray">Shooting Star VR</span>
+`#UE4` `#Blueprint` `#VR`
+> Steam, SideQuest, Pico Store SDK 연동 및 출시관련 대응
+> Client Programming
 
-- AfreecaTV에서 오프라인 대회에 종목으로 채택되어 BJ들을 초청하여 진행되었습니다.
-- G-STAR 2022에 참가하였습니다.
+#### <span style="color:gray">Archery Land VR</span>
+`#UE4` `#Blueprint` `#VR`
+> Steam, SideQuest, Pico Store SDK 연동 및 출시관련 대응
+> G-STAR 2022 참여 및 관련 대응, AfreecaTV 오프라인 대회
+> Client Programming
 
-### 직무
+#### <span style="color:gray">VR Library</span>
+`#UE4` `#Blueprint` `#VR`
+> 국립중앙도서관 오프라인 데모 및 현장 기술 대응
+> Client Programming
 
-- 멀티 플레이 환경 개발
-- 클라이언트 프로그래밍
-- 플랫폼 별 SDK 관련 개발
-- 오프라인 경기 중 현장 기술 대응
+## Highbrow <span style="color:gray;font-size:50%">(2021.04-2021.06)</span>
+<span style="color:gray;font-size:100%">Game Client Programmer</span><br/>
 
-### 기술 스택
+#### <span style="color:gray">드래곤 빌리지 NEW</span>
+`#Cocos2d` `#lua` `#python` `#mobile`<br/>
+> Client Programming
+> pvp 콘텐츠 (전투 로직 등)
+> 튜토리얼 가이드, 노치 옵션 등
 
-UE4, C++
+------
+## **경험 및 외부활동**
 
----
+#### 경일 게임 아카데미
+> <span style="color:gray;font-size:100%">Unity 3D 게임 프로그래머 양성과정 (2020.10-2021.04)</span>
 
-## VR Library
+#### 인턴
+> <span style="color:gray;font-size:100%">한국데이터산업진흥원 데이터 청소년 캠퍼스, POSCO ICT (2019.06-2019.09)</span>
 
-(국립중앙도서관)
-
-### 소개
-
-실제로는 들어갈 수 없는 국립중앙도서관 보존서고의 모습을 재현하여, 내부 교육 커리큘럼으로 사용할 수 있는 데모를 개발하였습니다.
-
-### 직무
-
-- 보존서고 VR 이동 관련
-- 교육을 위한 상호작용 오브젝트 개발
-- 오프라인 데모 중 현장 기술 대응
-
-### 기술 스택
-
-UE4, C++
-
----
-
-## Highbrow
-
-Client Programmer
-2022.04 - 2022.06
-
-## 드래곤 빌리지 NEW
-
-### 소개
-
-클라이언트 프로그래머로써 모바일 환경에서 UI 연동 작업, ‘PVP’ 콘텐츠 (콜로세움) 의 데이터 테이블, 로직 등을 개발하였습니다.
-
-### 직무
-
-- 노치 옵션
-- 튜토리얼 가이드
-- PVP 콘텐츠 (콜로세움)
-- 자동 전투 로직
-
-### 기술 스택
-
-Python
-
-# 경험 및 외부활동
-
-## 경일게임아카데미
-
-Unity 3D 게임 프로그래머 양성 과정
-2020.10 - 2021.04
-
-## 인턴
-
-한국데이터산업진흥원 데이터 청소년 캠퍼스
-
-2019.06 - 2019.09
-
-## 경기대학교
-
-컴퓨터과학과
-2014.03 - 2020.02
-
-## 경기대학교 개발 동아리
-
-학과 홈페이지 개설
-
-2018.01 - 2018.03
-
-경기대학교 컴퓨터과학과 학생들로 구성된 웹 연구 및 학과 홈페이지 개설 및 유지보수 팀입니다.
-
-- 새로운 데이터 갱신 관련 추가 개발
-- 졸업논문 신청 관련 로직 추가
-
-# 스킬
-
-## Unreal Engine
-
-- VR 프로젝트 개발 경험 有
-- 블루프린트 활용 개발
-- Steam, Oculus, Pico SDK 연동 경험
-- Steam, Oculus, Pico 스토어 게임 업로드 경험
-
-## C++
-
-- 객체 지향 프로그래밍
-- 데이터 구조 설계 등
-- 다양한 알고리즘을 활용한 게임 로직 개발
-
-## 자격증
-
-- 정보처리기사 - 2019.11 (한국인재개발원)
-- SQLD - 2019.09 (한국데이터진흥원)
+#### 경기대학교
+> <span style="color:gray;font-size:100%">컴퓨터과학과 (2019.06-2019.09)</span><br/>
+> <span style="color:gray;font-size:100%">[학과 홈페이지](http://cs.kyonggi.ac.kr:8080/Index) 개설 (2018.01-2018.03)</span>
 
 ---
-
-write on 2023.10.03
+## **자격증**
+<span style="color:gray;font-size:100%">정보처리기사 (2019.11)</span><br/>
+<span style="color:gray;font-size:100%">SQLD (2019.09)</span>
