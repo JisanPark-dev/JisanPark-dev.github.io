@@ -58,7 +58,8 @@ order: 4
 
 #### 경기대학교
 > <span style="color:gray;font-size:100%">컴퓨터과학과 (2019.06-2019.09)</span><br/>
-> <span style="color:gray;font-size:100%">[학과 홈페이지](http://cs.kyonggi.ac.kr:8080/Index) 개설 (2018.01-2018.03)</span>
+> <span style="color:gray;font-size:100%">학과 홈페이지 개설 (2018.01-2018.03)</span>
+<!--(http://cs.kyonggi.ac.kr:8080/Index)-->
 
 ---
 ## **자격증**
